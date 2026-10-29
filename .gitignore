@@ -1,0 +1,8 @@
+*.log
+*.jpeg
+*.jpg
+*.png
+QQBOT_visual_*.jpg
+library_download_request*.json
+.DS_Store
+
