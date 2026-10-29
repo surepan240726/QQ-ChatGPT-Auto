@@ -38,7 +38,7 @@
 
 ## 快速开始
 
-1. 下载最新版压缩包并解压
+1. [下载 0.6.10 压缩包](https://github.com/surepan240726/QQ-ChatGPT-Auto/releases/download/v0.6.10/QQ-ChatGPT-Auto-v0.6.10.zip)并解压
 2. 在 AutoJs6 中打开 `QQ-ChatGPT-Auto-v0.6.10.js`
 3. 把 `ownerNickname` 改成自己在聊天中的 QQ 昵称
 4. QQ 停在目标聊天页面
@@ -69,7 +69,9 @@
 
 ## 版本历史
 
-完整记录见 [CHANGELOG.md](CHANGELOG.md)。修正后的历史压缩包位于 [releases](releases/)；历史版本不建议用于日常运行。
+完整记录见 [CHANGELOG.md](CHANGELOG.md)。各版本压缩包请到 [GitHub 发布页](https://github.com/surepan240726/QQ-ChatGPT-Auto/releases)，在对应版本的 **Assets** 中下载 `QQ-ChatGPT-Auto-v版本号.zip`。
+
+历史版本的标签都指向当前仓库快照，因此 GitHub 自动生成的 `Source code (zip)` 和 `Source code (tar.gz)` 不是对应的旧版脚本。需要旧版本时，请下载该版本 **Assets** 中单独上传的压缩包。
 
 ## 隐私
 
