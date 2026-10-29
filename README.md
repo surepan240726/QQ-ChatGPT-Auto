@@ -71,7 +71,7 @@
 
 完整记录见 [CHANGELOG.md](CHANGELOG.md)。各版本压缩包请到 [GitHub 发布页](https://github.com/surepan240726/QQ-ChatGPT-Auto/releases)，在对应版本的 **Assets** 中下载 `QQ-ChatGPT-Auto-v版本号.zip`。
 
-历史版本的标签都指向当前仓库快照，因此 GitHub 自动生成的 `Source code (zip)` 和 `Source code (tar.gz)` 不是对应的旧版脚本。需要旧版本时，请下载该版本 **Assets** 中单独上传的压缩包。
+历史版本的标签都指向同一个包含 v0.6.10 源码的提交，因此 GitHub 自动生成的 `Source code (zip)` 和 `Source code (tar.gz)` 不是对应的旧版脚本。需要旧版本时，请下载该版本 **Assets** 中单独上传的压缩包。
 
 ## 隐私
 
